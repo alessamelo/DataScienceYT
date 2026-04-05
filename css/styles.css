@@ -1,0 +1,11 @@
+@import url("variables.css");
+@import url("base.css");
+@import url("layout.css");
+
+@import url("components/cards.css");
+@import url("components/buttons.css");
+
+@import url("sections/home.css");
+@import url("sections/research.css");
+@import url("sections/members.css");
+@import url("sections/projects.css");
